@@ -8,7 +8,7 @@ Here is the demo of five frontend projects:
  <br /> 1. https://thinthazin96.github.io/Light-Dark-Mode/
  <img src="./light-dark.gif" alt="My Project GIF" width="700" height="500">
  <br /> 2. https://thinthazin96.github.io/Form-Animation/
- <img src="./Animation-form.gif" alt="My Project GIF" width="500" height="600">
+ <img src="./Animation-form.gif" alt="My Project GIF" width="500" height="500">
  <br /> 3. https://thinthazin96.github.io/Movie-Booking/
  <img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
  <br /> 4. https://thinthazin96.github.io/Calculator/
