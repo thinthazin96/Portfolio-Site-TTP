@@ -15,7 +15,7 @@ Here is the demo of five frontend projects:
   <br /><img src="./moviebooking.gif" alt="My Project GIF" width="500" height="500">
   
  <br /> 4. https://thinthazin96.github.io/Calculator/
- <br /><img src="./basic-calculator.gif" alt="My Project GIF" width="500" height="600">
+ <br /><img src="./basic-calculator.gif" alt="My Project GIF" width="500" height="500">
  
  <br /> 5. https://thinthazin96.github.io/Meal-Finder/
  <br /><img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
